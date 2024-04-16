@@ -14,3 +14,8 @@ One glaring inadequacy was the absence of visual representation. The page lacked
 Moreover, the page did not feature the people who form the backbone of the company. In an age where transparency and human connection drive consumer engagement, the omission of team members' profiles created a disconnect. Visitors seeking to understand the organization's values, expertise, and culture were left with an incomplete picture.<br/>
 I took Leapfrog's website as my main inspiration behind this redesign as their website had the exact requirements of what a about page should be like: images showing the people, environment and listing all the major people who work there.<br/>
 On the technical side, I used Tailwindcss as my css framework, TypeScript for type safety and React as my JS library. Additionally I used different AI generated images as my dummy images for the website. 
+
+Samples:
+![image](https://github.com/Chris-Grg/metalogic-redesign-assess-task/assets/121335744/d945ebae-2115-4db0-82a9-3cd9c0196f97)
+![image](https://github.com/Chris-Grg/metalogic-redesign-assess-task/assets/121335744/9eb66887-959c-417a-91a7-e3401fb30893)
+
