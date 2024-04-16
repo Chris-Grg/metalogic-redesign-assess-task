@@ -1,30 +1,14 @@
-# React + TypeScript + Vite
+# Technology used
+Vite + React + TypeScript
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Set up Local
+npm install <br/>
+npm run dev
 
-Currently, two official plugins are available:
+## Documentation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+# Chosen Page to redesign: About Us
+The decision to redesign the About Me page stemmed from a crucial observation: it lacked the vital essence of personality. As an integral component of any website, the About Me page serves as a gateway for visitors to connect with the brand on a personal level. However, the existing page failed to deliver this crucial aspect. <br/>
+One glaring inadequacy was the absence of visual representation. The page lacked imagery that could effectively communicate the essence of the brand and the individuals behind it. In a digital landscape where visual storytelling reigns supreme, the absence of pictures to depict the team and their environment left a significant void.<br/>
+Moreover, the page did not feature the people who form the backbone of the company. In an age where transparency and human connection drive consumer engagement, the omission of team members' profiles created a disconnect. Visitors seeking to understand the organization's values, expertise, and culture were left with an incomplete picture.<br/>
+Hence, In my redesign I have included various images (dummy images) which would help the visitors understand the company, its workers better.<br/>
