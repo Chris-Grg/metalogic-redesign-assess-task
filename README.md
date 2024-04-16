@@ -2,7 +2,7 @@
 Vite + React + TypeScript
 
 ## Set up Local
-npm install /n
+npm install \n
 npm run dev
 
 ## Documentation
