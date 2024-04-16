@@ -1,5 +1,5 @@
 # Technology used
-Vite + React + TypeScript
+Vite + React + TypeScript <br/>
 Tailwindcss
 
 ## Set up Local
