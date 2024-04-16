@@ -60,7 +60,7 @@ const About = () => {
           </p>
           <p className="flex gap-5 items-center justify-start m-4" id="more">
             <span className="text-blue-900 font-extrabold hover:text-red-600">
-              <NavLink href="/services" className="flex items-center ">
+              <NavLink to="/services" className="flex items-center ">
                 FIND OUT MORE
                 <span className="d-inline-flex">
                   <svg
