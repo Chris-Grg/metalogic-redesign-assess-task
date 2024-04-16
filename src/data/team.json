@@ -1,0 +1,15 @@
+[{
+    "pic":"../../public/assets/ai-8.jpg", 
+    "name": "John Doe",
+    "description": "John drives the culture, delivery, and healthcare divisions at Metalogic. He has a vast experience spanning 23 years, from leading enterprise innovation teams at Oracle to being CEO and co-founder of a successful venture-backed startup. He graduated from Stanford University in 2002 with degrees in Symbolic Systems and Computer Science, focusing on Human-Computer Interaction.",
+    "position": "CEO"
+},
+{"pic": "../../public/assets/ai-4.jpg", "name": "Himal", "description": "Himal founded the company in 2010 and leads global growth and operations. An engineer by training, Himal has over 25 years of experience spanning enterprise, healthcare, and data. He is an accomplished business leader and speaker. He has previously served in leadership roles at Verisk Health, Oracle, and Motorola. He did his bachelor’s and master's in EECS at MIT.", "position": "President"}
+,
+{"pic": "../../public/assets/ai-5.jpg", "name": "Chandika", "description": "Chandika leads strategy, growth, and company's Signetic product. Chandika has been a vanguard of the decentralization of healthcare, leading initiatives to support public health with customers such as the City of Seattle. A 10-year Microsoft veteran, Chandika led his own startups and service companies prior to joining Leapfrog. He completed his bachelor's in computer science from BYU.", "position": "SVP, Global Operations"}
+,
+{"pic": "../../public/assets/ai-6.jpg", "name": "Kailash", "description": "Kailash heads our over 400 person organization in Nepal. A top engineering talent in Nepal, he served as company's CTO, implementing world-class engineering practices. Since moving into operations, Kailash has been instrumental in improving processes and capabilities within as well as beyond Nepal. He leverages his background to foster world-class engineers and leaders in Nepal.", "position": "SVP, Engineering"}
+,
+{"pic": "../../public/assets/ai-7.png", "name": "Pamela Kott", "description": "Pam directs Leapfrog's EdTech programs and Signetic, Leapfrog's health-tech venture. She excels in delivering Health tech solutions via Signetic and collaborative EdTech products, including Agilix, ACT, The College Board, NSF, Michael and Susan Dell Foundation, and the Bill and Melinda Gates Foundation. Pam graduated from Virginia Tech with a degree in Mechanical Engineering.", "position": "Vice President, Customer Engagements (Signetic)"}
+
+]
